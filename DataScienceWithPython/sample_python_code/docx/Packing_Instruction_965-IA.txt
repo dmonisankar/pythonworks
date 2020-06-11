@@ -1,0 +1,25 @@
+Packing Instruction 965–IA
+Please refer to section 2.3.4 for List of Operator Variations
+Introduction
+This instruction applies to lithium ion or lithium polymer cells and batteries (UN 3480) on Cargo Aircraft Only.
+This instruction applies to lithium ion cells with a Watt-hour rating in excess of 20 Wh and lithium ion batteries with a Watt-hour rating in excess of 100 Wh (UN 3480), or to quantities of lithium ion cells or batteries in excess of those permitted in Section IB of this packing instruction which must be assigned to Class 9 and are subject to all of the applicable requirements of these Guidelines.
+A single cell battery as defined in Part III, sub-section 38.3.2.3 of the UN Manual of Tests and Criteria is considered a “cell” and must be transported according to the requirements for “cells” for the purpose of this packing instruction.
+General Requirements
+The following requirements apply to all lithium ion or lithium polymer cells and batteries:
+(a) cells and batteries identified by the manufacturer as being defective for safety reasons, or that have been damaged, that have the potential of producing a dangerous evolution of heat, fire or short circuit are forbidden for transport (e.g. those being returned to the manufacturer for safety reasons);
+(b) waste batteries and batteries being shipped for recycling or disposal are forbidden from air transport unless approved by the appropriate national authority of the State of origin and the State of the operator;
+(c) cells and batteries must be protected so as to prevent short circuits. This includes protection against contact with conductive materials within the same packaging that could lead to a short circuit.
+Section IA
+These requirements apply to lithium ion cells with a Watt-hour rating in excess of 20 Wh and lithium ion batteries with a Watt-hour rating in excess of 100 Wh that have been determined to meet the criteria for assignment to Class 9.
+The General Packing Requirements of 5.1.2.
+Each cell or battery must:
+1. meet the provisions of 3.3.2;
+2. meet the General Requirements, above; and
+3. lithium ion cells and batteries must be offered for transport at a state of charge (SoC) not exceeding 30% of their rated design capacity. Cells and/or batteries at a SoC of greater than 30% may only be shipped with the approval of the State of origin and the State of the operator under the written conditions established by those authorities.
+Note:
+Guidance and methodology for determining the rated capacity can be found in Section 38.3.2.3 of the UN Manual of Tests and Criteria, 6th revised edition.
+Additional Requirements–Section IA
+cells and batteries must be placed in inner packagings that completely enclose the cell or battery then placed in an outer packaging. The completed package for the cells or batteries must meet the Packing Group II performance standards;
+batteries with a weight of 12 kg or greater and having a strong, impact-resistant outer casing, or assemblies of such batteries, may be transported when packed in strong outer packagings or protective enclosures (e.g. in fully enclosed or wooden slated crates). The packagings need not meet the requirements of Section 6 of these Guidelines. The packagings must be approved by the appropriate authority of the State of origin. A copy of the document of approval must accompany the consignment;
+batteries manufactured after 31 December 2011 must be marked with the Watt-hour rating on the outside case.
+Please refer to Table 965-IA for quantity Limits and Outer Packaging Instruction.

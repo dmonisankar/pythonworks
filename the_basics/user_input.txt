@@ -1,0 +1,5 @@
+Moni testing file writing
+The previous line contains user inputThis is Moni testing again file append
+The previous line contains user input
+testing again and again
+The previous line contains user input

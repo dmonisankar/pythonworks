@@ -1,0 +1,375 @@
+no title
+
+IPIC Reference No. IPIC­31086
+
+Vessel Name SAFMARINE BAYETE
+
+Bill of Lading No. 959954556
+
+Container No. MMAU1031675 MMAU1007581
+
+Type of Commodity Bananas
+
+Recovery No
+
+Cost Avoidance No
+
+HS Codes 000708
+
+Reviewer Id 04
+
+Date 13/06/2017
+
+IPIC Reference No. IPIC­31086
+
+Incident Ref No. (if applicable) N/A
+
+Surveyors file reference no. 72/05/17/KWUQR
+
+Vessel Name SAFMARINE BAYETE
+
+IPIC Survey Summary Page
+
+IPIC Comments
+
+Data logger analysis show that both MMAU1031675 & MMAU1007581 were having issues with with high level of oxygen during the  voyage. High oxygen level combined with a transit time of 53 days, would have caused increased respiration and maturity, which may  have been exacerbated by pre­existing conditions within the fruit.
+
+According to surveyor, only a limited cartons were inspected due to safety concerns, however the surveyor commented that 99% of  the load was mix of green hard and soft bananas, which beg the question if both container were a total loss, as the claim amount  would suggest.
+
+There are in total 10 containers on the BL, but apparently only 2 were found to have problems with the quality of the fruit, which would  suggest that cargo damage is mostly due to carriage conditions i.e. CA condition not  being within range of set point.
+
+Container Number Prime Cause Secondary Cause Container Manufacturer Date of Manufacture Container Software Version Recovery Cost Avoidance MMAU1031675 ControlledAtmosphere issues N/A StarCool 2009 0353 No No MMAU1007581 ControlledAtmosphere issues N/A StarCool 2009 0354 No No
+
+Stage 1: General Information
+
+Voyage No. 1704 Bill of Lading No. 959954556 Container No. MMAU1031675 MMAU1007581 Type of Commodity Bananas Country of Origin Ecuador Country of Destination Iraq Has the consigment been surveyed? Yes If yes, was consignment in a sound condition / has claim been withdrawn?
+
+No
+
+MMAU1031675
+
+Reason for survey Cargo Damage Nature of Loss / Root Cause Pre­shipment temperature issues Date of instruction 18/05/2017 Date of survey 18/05/2017 Difference 0 days Carriage Temp °C 14.0 Vent settings (cbm/hr) Off Humidity settings (%) Not showing Controlled Atmosphere No
+
+MMAU1007581
+
+Reason for survey Cargo Damage Nature of Loss / Root Cause Pre­shipment temperature issues Date of instruction 18/05/2017 Date of survey 18/05/2017 Difference 0 days Carriage Temp °C 14.0 Vent settings (cbm/hr) Off Humidity settings (%) Not showing
+
+Stage 2: Survey Details
+
+Controlled Atmosphere No
+
+MMAU1031675
+
+Was container on site at the time of survey Yes Was the container still loaded full / part at time of survey No Condition of Container Sound Container sealed Not known Container Type Reefer 40' Hi cube (40' x 8' x 9'6") Container Date of Manufacture N/A Reefer Manufacturer Not known Container Software Version (if known) Not Known
+
+MMAU1007581
+
+Was container on site at the time of survey Yes Was the container still loaded full / part at time of survey No Condition of Container Sound Container sealed Not known Container Type Reefer 40' Hi cube (40' x 8' x 9'6") Container Date of Manufacture N/A Reefer Manufacturer Not known Container Software Version (if known) Not Known
+
+MMAU1031675
+
+Scheduled transit time if known (days) Not Known Date container gated out (empty ­ for export) 22/03/2017 Date container gated in (full ­ for export) 23/03/2017 Date loaded to vessel 25/03/2017 Date of final discharge 12/05/2017 Was consignment delivered to Consignees Yes Date of delivery to Consignees 15/05/2017
+
+Stage 3: Container Details
+
+Stage 4: Transit
+
+Date of delivery to Consignees 15/05/2017 Actual Transit Time 53 days Delivery Note sighted No
+
+MMAU1007581
+
+Scheduled transit time if known (days) Not Known Date container gated out (empty ­ for export) 22/03/2017 Date container gated in (full ­ for export) 23/03/2017 Date loaded to vessel 25/03/2017 Date of final discharge 12/05/2017 Was consignment delivered to Consignees Yes Date of delivery to Consignees 15/05/2017 Actual Transit Time 53 days Delivery Note sighted No
+
+MMAU1031675
+
+B/L sighted Yes Does container no(s) on the B/L match the instruction sheet Yes Shipper TUCHOK S.A. Shipper same as Commercial Invoice Not known Consignees SKILLS WAY LOGISTICS COMPANY LLC Add another file
+
+N/A
+
+Add another file N/A
+
+Stage 5: B/L Details
+
+Consignees address, phone number, Email 10
+
+61011  Umm Qasr Iraq 964­709000029 bananagroup7@gmail.com
+
+Nature of Consignees business Fruit and Vegitable Importers Consignment insured Not known Commercial Invoice Value (US$) N/A Terms of Sale Not known Number of cartons per container 1197 Net weight of cargo (kgs) 25137
+
+MMAU1007581
+
+B/L sighted Yes Does container no(s) on the B/L match the instruction sheet Yes Shipper TUCHOK S.A. Shipper same as Commercial Invoice Not known Consignees SKILLS WAY LOGISTICS COMPANY LLC
+
+Nature of Consignees business Fruit and Vegitable Importers Consignment insured Not known Commercial Invoice Value (US$) N/A Terms of Sale Not known Number of cartons per container 1200 Net weight of cargo (kgs) 25200 Sound Market Value (SMV) please state per carton / kg USD 21/­ Per Carton
+
+Consignees address, phone number, Email 10
+
+61011  Umm Qasr Iraq 964­709000029 bananagroup7@gmail.com
+
+Sound Market Value (SMV) please state per carton / kg USD 21/­ Per Carton
+
+MMAU1031675
+
+Approx distance from port (km) About 6 KM. Third party warehouse Yes Is this the first place of delivery Yes Stowage Pallets/Block Stowed Block Stowed Configuration of stow if known i.e. how many rows/tiers 5 Rows X 10 Tiers Height of block stow if seen (in cms) 1200 CM Container maximum load line exceeded No
+
+Is exposed floor area covered Not known Is the evaporator grill clear Not known Are there any airflow obstructions Not known CA curtain membrane intact Not applicable Kick (baffle) plate in correct position? Not known Is T­bar floor unobstructed Not known Are ethylene tubes fitted? Not applicable Drain plugs Not known
+
+Stage 6: Stowage
+
+Place of survey Gulftainer  berth No.11. Umm Qasr port, Iraq.
+
+Explanation of stowage as seen, or advised Well stowed, no shift of cartons. No pallets. Cartons stacked directly on container floor. All cartons intact. Stow not exceed container  height. No bad smell.
+
+Upload photograph of stowage (if seen) N/A
+
+Distance of cargo / pallets from door end (cm) 2.0 cm.
+no title
+
+IPIC Reference No. IPIC­31086
+
+Vessel Name SAFMARINE BAYETE
+
+Bill of Lading No. 959954556
+
+Container No. MMAU1031675 MMAU1007581
+
+Type of Commodity Bananas
+
+Recovery No
+
+Cost Avoidance No
+
+HS Codes 000708
+
+Reviewer Id 04
+
+Date 13/06/2017
+
+IPIC Reference No. IPIC­31086
+
+Incident Ref No. (if applicable) N/A
+
+Surveyors file reference no. 72/05/17/KWUQR
+
+Vessel Name SAFMARINE BAYETE
+
+IPIC Survey Summary Page
+
+IPIC Comments
+
+Data logger analysis show that both MMAU1031675 & MMAU1007581 were having issues with with high level of oxygen during the  voyage. High oxygen level combined with a transit time of 53 days, would have caused increased respiration and maturity, which may  have been exacerbated by pre­existing conditions within the fruit.
+
+According to surveyor, only a limited cartons were inspected due to safety concerns, however the surveyor commented that 99% of  the load was mix of green hard and soft bananas, which beg the question if both container were a total loss, as the claim amount  would suggest.
+
+There are in total 10 containers on the BL, but apparently only 2 were found to have problems with the quality of the fruit, which would  suggest that cargo damage is mostly due to carriage conditions i.e. CA condition not  being within range of set point.
+
+Container Number Prime Cause Secondary Cause Container Manufacturer Date of Manufacture Container Software Version Recovery Cost Avoidance MMAU1031675 ControlledAtmosphere issues N/A StarCool 2009 0353 No No MMAU1007581 ControlledAtmosphere issues N/A StarCool 2009 0354 No No
+
+Stage 1: General Information
+
+Voyage No. 1704 Bill of Lading No. 959954556 Container No. MMAU1031675 MMAU1007581 Type of Commodity Bananas Country of Origin Ecuador Country of Destination Iraq Has the consigment been surveyed? Yes If yes, was consignment in a sound condition / has claim been withdrawn?
+
+No
+
+MMAU1031675
+
+Reason for survey Cargo Damage Nature of Loss / Root Cause Pre­shipment temperature issues Date of instruction 18/05/2017 Date of survey 18/05/2017 Difference 0 days Carriage Temp °C 14.0 Vent settings (cbm/hr) Off Humidity settings (%) Not showing Controlled Atmosphere No
+
+MMAU1007581
+
+Reason for survey Cargo Damage Nature of Loss / Root Cause Pre­shipment temperature issues Date of instruction 18/05/2017 Date of survey 18/05/2017 Difference 0 days Carriage Temp °C 14.0 Vent settings (cbm/hr) Off Humidity settings (%) Not showing
+
+Stage 2: Survey Details
+
+Controlled Atmosphere No
+
+MMAU1031675
+
+Was container on site at the time of survey Yes Was the container still loaded full / part at time of survey No Condition of Container Sound Container sealed Not known Container Type Reefer 40' Hi cube (40' x 8' x 9'6") Container Date of Manufacture N/A Reefer Manufacturer Not known Container Software Version (if known) Not Known
+
+MMAU1007581
+
+Was container on site at the time of survey Yes Was the container still loaded full / part at time of survey No Condition of Container Sound Container sealed Not known Container Type Reefer 40' Hi cube (40' x 8' x 9'6") Container Date of Manufacture N/A Reefer Manufacturer Not known Container Software Version (if known) Not Known
+
+MMAU1031675
+
+Scheduled transit time if known (days) Not Known Date container gated out (empty ­ for export) 22/03/2017 Date container gated in (full ­ for export) 23/03/2017 Date loaded to vessel 25/03/2017 Date of final discharge 12/05/2017 Was consignment delivered to Consignees Yes Date of delivery to Consignees 15/05/2017
+
+Stage 3: Container Details
+
+Stage 4: Transit
+
+Date of delivery to Consignees 15/05/2017 Actual Transit Time 53 days Delivery Note sighted No
+
+MMAU1007581
+
+Scheduled transit time if known (days) Not Known Date container gated out (empty ­ for export) 22/03/2017 Date container gated in (full ­ for export) 23/03/2017 Date loaded to vessel 25/03/2017 Date of final discharge 12/05/2017 Was consignment delivered to Consignees Yes Date of delivery to Consignees 15/05/2017 Actual Transit Time 53 days Delivery Note sighted No
+
+MMAU1031675
+
+B/L sighted Yes Does container no(s) on the B/L match the instruction sheet Yes Shipper TUCHOK S.A. Shipper same as Commercial Invoice Not known Consignees SKILLS WAY LOGISTICS COMPANY LLC Add another file
+
+N/A
+
+Add another file N/A
+
+Stage 5: B/L Details
+
+Consignees address, phone number, Email 10
+
+61011  Umm Qasr Iraq 964­709000029 bananagroup7@gmail.com
+
+Nature of Consignees business Fruit and Vegitable Importers Consignment insured Not known Commercial Invoice Value (US$) N/A Terms of Sale Not known Number of cartons per container 1197 Net weight of cargo (kgs) 25137
+
+MMAU1007581
+
+B/L sighted Yes Does container no(s) on the B/L match the instruction sheet Yes Shipper TUCHOK S.A. Shipper same as Commercial Invoice Not known Consignees SKILLS WAY LOGISTICS COMPANY LLC
+
+Nature of Consignees business Fruit and Vegitable Importers Consignment insured Not known Commercial Invoice Value (US$) N/A Terms of Sale Not known Number of cartons per container 1200 Net weight of cargo (kgs) 25200 Sound Market Value (SMV) please state per carton / kg USD 21/­ Per Carton
+
+Consignees address, phone number, Email 10
+
+61011  Umm Qasr Iraq 964­709000029 bananagroup7@gmail.com
+
+Sound Market Value (SMV) please state per carton / kg USD 21/­ Per Carton
+
+MMAU1031675
+
+Approx distance from port (km) About 6 KM. Third party warehouse Yes Is this the first place of delivery Yes Stowage Pallets/Block Stowed Block Stowed Configuration of stow if known i.e. how many rows/tiers 5 Rows X 10 Tiers Height of block stow if seen (in cms) 1200 CM Container maximum load line exceeded No
+
+Is exposed floor area covered Not known Is the evaporator grill clear Not known Are there any airflow obstructions Not known CA curtain membrane intact Not applicable Kick (baffle) plate in correct position? Not known Is T­bar floor unobstructed Not known Are ethylene tubes fitted? Not applicable Drain plugs Not known
+
+Stage 6: Stowage
+
+Place of survey Gulftainer  berth No.11. Umm Qasr port, Iraq.
+
+Explanation of stowage as seen, or advised Well stowed, no shift of cartons. No pallets. Cartons stacked directly on container floor. All cartons intact. Stow not exceed container  height. No bad smell.
+
+Upload photograph of stowage (if seen) N/A
+
+Distance of cargo / pallets from door end (cm) 2.0 cm.
+no title
+
+IPIC Reference No. IPIC­31086
+
+Vessel Name SAFMARINE BAYETE
+
+Bill of Lading No. 959954556
+
+Container No. MMAU1031675 MMAU1007581
+
+Type of Commodity Bananas
+
+Recovery No
+
+Cost Avoidance No
+
+HS Codes 000708
+
+Reviewer Id 04
+
+Date 13/06/2017
+
+IPIC Reference No. IPIC­31086
+
+Incident Ref No. (if applicable) N/A
+
+Surveyors file reference no. 72/05/17/KWUQR
+
+Vessel Name SAFMARINE BAYETE
+
+IPIC Survey Summary Page
+
+IPIC Comments
+
+Data logger analysis show that both MMAU1031675 & MMAU1007581 were having issues with with high level of oxygen during the  voyage. High oxygen level combined with a transit time of 53 days, would have caused increased respiration and maturity, which may  have been exacerbated by pre­existing conditions within the fruit.
+
+According to surveyor, only a limited cartons were inspected due to safety concerns, however the surveyor commented that 99% of  the load was mix of green hard and soft bananas, which beg the question if both container were a total loss, as the claim amount  would suggest.
+
+There are in total 10 containers on the BL, but apparently only 2 were found to have problems with the quality of the fruit, which would  suggest that cargo damage is mostly due to carriage conditions i.e. CA condition not  being within range of set point.
+
+Container Number Prime Cause Secondary Cause Container Manufacturer Date of Manufacture Container Software Version Recovery Cost Avoidance MMAU1031675 ControlledAtmosphere issues N/A StarCool 2009 0353 No No MMAU1007581 ControlledAtmosphere issues N/A StarCool 2009 0354 No No
+
+Stage 1: General Information
+
+Voyage No. 1704 Bill of Lading No. 959954556 Container No. MMAU1031675 MMAU1007581 Type of Commodity Bananas Country of Origin Ecuador Country of Destination Iraq Has the consigment been surveyed? Yes If yes, was consignment in a sound condition / has claim been withdrawn?
+
+No
+
+MMAU1031675
+
+Reason for survey Cargo Damage Nature of Loss / Root Cause Pre­shipment temperature issues Date of instruction 18/05/2017 Date of survey 18/05/2017 Difference 0 days Carriage Temp °C 14.0 Vent settings (cbm/hr) Off Humidity settings (%) Not showing Controlled Atmosphere No
+
+MMAU1007581
+
+Reason for survey Cargo Damage Nature of Loss / Root Cause Pre­shipment temperature issues Date of instruction 18/05/2017 Date of survey 18/05/2017 Difference 0 days Carriage Temp °C 14.0 Vent settings (cbm/hr) Off Humidity settings (%) Not showing
+
+Stage 2: Survey Details
+
+Controlled Atmosphere No
+
+MMAU1031675
+
+Was container on site at the time of survey Yes Was the container still loaded full / part at time of survey No Condition of Container Sound Container sealed Not known Container Type Reefer 40' Hi cube (40' x 8' x 9'6") Container Date of Manufacture N/A Reefer Manufacturer Not known Container Software Version (if known) Not Known
+
+MMAU1007581
+
+Was container on site at the time of survey Yes Was the container still loaded full / part at time of survey No Condition of Container Sound Container sealed Not known Container Type Reefer 40' Hi cube (40' x 8' x 9'6") Container Date of Manufacture N/A Reefer Manufacturer Not known Container Software Version (if known) Not Known
+
+MMAU1031675
+
+Scheduled transit time if known (days) Not Known Date container gated out (empty ­ for export) 22/03/2017 Date container gated in (full ­ for export) 23/03/2017 Date loaded to vessel 25/03/2017 Date of final discharge 12/05/2017 Was consignment delivered to Consignees Yes Date of delivery to Consignees 15/05/2017
+
+Stage 3: Container Details
+
+Stage 4: Transit
+
+Date of delivery to Consignees 15/05/2017 Actual Transit Time 53 days Delivery Note sighted No
+
+MMAU1007581
+
+Scheduled transit time if known (days) Not Known Date container gated out (empty ­ for export) 22/03/2017 Date container gated in (full ­ for export) 23/03/2017 Date loaded to vessel 25/03/2017 Date of final discharge 12/05/2017 Was consignment delivered to Consignees Yes Date of delivery to Consignees 15/05/2017 Actual Transit Time 53 days Delivery Note sighted No
+
+MMAU1031675
+
+B/L sighted Yes Does container no(s) on the B/L match the instruction sheet Yes Shipper TUCHOK S.A. Shipper same as Commercial Invoice Not known Consignees SKILLS WAY LOGISTICS COMPANY LLC Add another file
+
+N/A
+
+Add another file N/A
+
+Stage 5: B/L Details
+
+Consignees address, phone number, Email 10
+
+61011  Umm Qasr Iraq 964­709000029 bananagroup7@gmail.com
+
+Nature of Consignees business Fruit and Vegitable Importers Consignment insured Not known Commercial Invoice Value (US$) N/A Terms of Sale Not known Number of cartons per container 1197 Net weight of cargo (kgs) 25137
+
+MMAU1007581
+
+B/L sighted Yes Does container no(s) on the B/L match the instruction sheet Yes Shipper TUCHOK S.A. Shipper same as Commercial Invoice Not known Consignees SKILLS WAY LOGISTICS COMPANY LLC
+
+Nature of Consignees business Fruit and Vegitable Importers Consignment insured Not known Commercial Invoice Value (US$) N/A Terms of Sale Not known Number of cartons per container 1200 Net weight of cargo (kgs) 25200 Sound Market Value (SMV) please state per carton / kg USD 21/­ Per Carton
+
+Consignees address, phone number, Email 10
+
+61011  Umm Qasr Iraq 964­709000029 bananagroup7@gmail.com
+
+Sound Market Value (SMV) please state per carton / kg USD 21/­ Per Carton
+
+MMAU1031675
+
+Approx distance from port (km) About 6 KM. Third party warehouse Yes Is this the first place of delivery Yes Stowage Pallets/Block Stowed Block Stowed Configuration of stow if known i.e. how many rows/tiers 5 Rows X 10 Tiers Height of block stow if seen (in cms) 1200 CM Container maximum load line exceeded No
+
+Is exposed floor area covered Not known Is the evaporator grill clear Not known Are there any airflow obstructions Not known CA curtain membrane intact Not applicable Kick (baffle) plate in correct position? Not known Is T­bar floor unobstructed Not known Are ethylene tubes fitted? Not applicable Drain plugs Not known
+
+Stage 6: Stowage
+
+Place of survey Gulftainer  berth No.11. Umm Qasr port, Iraq.
+
+Explanation of stowage as seen, or advised Well stowed, no shift of cartons. No pallets. Cartons stacked directly on container floor. All cartons intact. Stow not exceed container  height. No bad smell.
+
+Upload photograph of stowage (if seen) N/A
+
+Distance of cargo / pallets from door end (cm) 2.0 cm.

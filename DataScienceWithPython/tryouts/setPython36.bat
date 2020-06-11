@@ -1,0 +1,1 @@
+set PATH=C:\Moni\Cognitive\python36\Scripts\;C:\Moni\Cognitive\python36\;C:\Users\IBM_ADMIN\AppData\Roaming\npm;C:\Users\IBM_ADMIN\AppData\Local\atom\bin;C:\Moni\Cognitive\UIMA\apache-uima\bin;%JAVA_HOME%\bin;C:\Moni\Cognitive\curl-7.53.1\src;C:\Program Files\Java\jre1.8.0_121\bin

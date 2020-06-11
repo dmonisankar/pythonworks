@@ -1,0 +1,31 @@
+Lasso Regression
+
+from sklearn.linear_model import Lasso
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.3, random_state=42)
+
+lasso = Lasso(alpha=0.1,normalize=True)
+
+lasso.fit(X_train, y_train)
+lasso_pred = lasso.predict(X_test)
+lasso.score(X_test, y_test)
+
+--------------------------------------------
+feature selection using Lasso Regression
+
+
+from sklearn.linear_model import Lasso
+
+names = boston.drop('MEDV',axis=1).columns
+
+lasso = Lasso(alpha=0.1)
+
+lasso_coef = lasso.fit(X, y).coef_
+
+_ = plt.plot(range(len(names)), lasso_coef)
+
+_ = plt.xticks(range(len(names)),names, rotation=60)
+
+_ = plt.ylabel('Coefficients')
+
+plt.show()

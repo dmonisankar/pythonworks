@@ -1,0 +1,166 @@
+no title
+
+IPIC Reference No. IPIC­31087 Vessel Name SAFMARINE KURAMO Bill of Lading No. 959781103 Container No. MMAU1190492 Type of Commodity Bananas
+
+Recovery No Cost Avoidance No HS Codes 000708 Reviewer Id 04 Date 13/06/2017
+
+IPIC Reference No. IPIC­31087 Incident Ref No. (if applicable) N/A Surveyors file reference no. 73/05/17 KWUQR Vessel Name SAFMARINE KURAMO Voyage No. 1729 Bill of Lading No. 959781103 Container No. MMAU1190492 Type of Commodity Bananas
+
+IPIC Survey Summary Page
+
+IPIC Comments Data logger analysis show that both temperature and CO2 were within range of requested set point. However, the O2 levels were  high and outside range, which would have increased the respiration and subsequent the maturity of the fruit. Furthermore, a transit  time of 66 days would have taken the fruit to the limit of the shelf life, which may have exacerbated the damage condition.
+
+Container Number Prime Cause Secondary Cause Container Manufacturer Date of Manufacture Container Software Version Recovery Cost Avoidance MMAU1190492 ControlledAtmosphere issues Actual reduced shelf life StarCool 03/11 0354 No No
+
+Stage 1: General Information
+
+Country of Origin Ecuador Country of Destination Iraq Has the consigment been surveyed? Yes If yes, was consignment in a sound condition / has claim been withdrawn?
+
+No
+
+MMAU1190492
+
+Reason for survey Cargo Damage Nature of Loss / Root Cause Pre­shipment temperature issues Date of instruction 18/05/2017 Date of survey 18/05/2017 Difference 0 days Carriage Temp °C 14.0 Vent settings (cbm/hr) OFF Humidity settings (%) OFF Controlled Atmosphere No
+
+MMAU1190492
+
+Was container on site at the time of survey Yes Was the container still loaded full / part at time of survey Yes
+
+Stage 2: Survey Details
+
+Stage 3: Container Details
+
+If Yes upload photo
+
+IMG_5164(Small).JPG
+
+Condition of Container Sound Container sealed Not known Container Type Reefer 40' Hi cube (40' x 8' x 9'6") Container Date of Manufacture 03/11 Reefer Manufacturer StarCool Container Software Version (if known) Not Known
+
+MMAU1190492
+
+Scheduled transit time if known (days) Not known Date container gated out (empty ­ for export) 09/03/2017 Date container gated in (full ­ for export) 10/03/2017 Date loaded to vessel 11/03/2017 Date of final discharge 13/05/2017 Was consignment delivered to Consignees Yes Date of delivery to Consignees 15/05/2017 Actual Transit Time 66 days Delivery Note sighted No
+
+Stage 4: Transit
+
+Add another file
+
+MMAU1190492
+
+B/L sighted Yes Does container no(s) on the B/L match the instruction sheet Yes Shipper TUCHOK S.A. Shipper same as Commercial Invoice Not known Consignees SKILLS WAY LOGISTICS COMPANY LLC
+
+Nature of Consignees business VEGITABLE & FRUIT IMPORTERS Consignment insured Not known Commercial Invoice Value (US$) N/A Terms of Sale Not known Number of cartons per container 1200 Net weight of cargo (kgs) 25200
+
+MMAU1190492
+
+Approx distance from port (km) About 6 km. Third party warehouse Yes
+
+Stage 5: B/L Details
+
+Consignees address, phone number, Email 10
+
+61011  Umm Qasr Iraq 964­709000029 bananagroup7@gmail.com
+
+Sound Market Value (SMV) please state per carton / kg USD21/­ PER CARTON
+
+Stage 6: Stowage
+
+Place of survey Gulftainer Logistic Storage yards.
+
+IMG_5164(Small)1.JPG Is this the first place of delivery Yes Stowage Pallets/Block Stowed Block Stowed Configuration of stow if known i.e. how many rows/tiers 5 ROWS X 10 TIERS Height of block stow if seen (in cms) 2400 CM Container maximum load line exceeded No
+
+Is exposed floor area covered Not known Is the evaporator grill clear Not known Are there any airflow obstructions Not known CA curtain membrane intact Not applicable Kick (baffle) plate in correct position? Not known Is T­bar floor unobstructed Not known Are ethylene tubes fitted? Not applicable Drain plugs Not known Explanation of stowage as seen, or advised Well stowed, no shift of cartons. No pallets. Cartons stacked directly on container floor. All cartons intact. Stow not exceed container  height. No bad smell.
+
+Upload photograph of stowage (if seen)
+
+Distance of cargo / pallets from door end (cm) Distance of cartons from the door 2.0  cm.
+
+Have Consignees had issues with previous shipments Yes
+
+Consignees regularly receiving similar containers Yes
+
+IMG_5176(Small).JPG
+
+MMAU1190492
+
+Consignees Ref No. Not Known Carton weight (kg) 25200 Class 1 Banavac bag Yes Poly Bag Yes Indivdual bags No IFCO crates (plastic crates) No Other parties present and whom they represent Local consignees representative , clearing agent
+
+If yes, Description of previous issues Overripe Bananas
+
+Stage 7: Packaging / Delivery / Storage Details
+
+Upload photo side profile
+
+Cold Store / Warehouse temperature °C Not Known Inspection area temperature °C Not Known Have bananas been gassed? No Pulp temperature at time of delivery top/middle/bottom °C 20.2 / 19.2 /19.6
+
+MMAU1190492
+
+Carton No. 1175
+
+Grower codes 4.321010
+
+MMAU1190492
+
+Was the consignment still in the container? No
+
+Stage 8: Survey Findings / Condition
+
+Describe general condition of produce and other information considered relevant (remove cartons from top, middle and bottom) Green soft & hard. Green turning to yellow.  Due to security reasons, and hot weather the inspection done inside consignees truck.
+
+Explanation of Grower Codes / Pack Dates 4.321010
+
+Stage 9: Survey Findings / Condition
+
+Pulp Temp °C 20.2
+
+%Ripes 97.91 %Chill 0 %Other 0
+
+Carton No. 25
+
+Grower codes 4.321010
+
+Pulp Temp °C 20.2
+
+Quality issues No
+
+MMAU1190492
+
+Add another file
+
+Description of colour MORE GREEN THAN YELLOW (3)
+
+Stage 11: Conclusion / Documentation
+
+Steps Consignee taking to mitigate / reduce loss Consignees sell the yellow, soft , hard. Soft green bananas to the market at price around $20.0 . The chilled bananas are sent to the  cooling hose for ripening.
+
+B.L.959781103­Mmau1190492.Pdf Do you agree with this course of action Yes Salvage prospects Yes Reason for survey Cargo Damage Nature of Loss / Root Cause Pre­shipment temperature issues
+
+Copies of temperature recorder attached No Please state opinion on likely cause of damage Surveyor's opinion is due to the long storage of the container (66 days) in transit ports, as per tracking the container may be left  running without checking the temperature control for proper cooling the bananas, resulted in ripening the fruit. Could be loaded over­ matured bananas also.
+
+Comments on shippers temperature recording instrument Not seen
+
+Reason (if not attached) Not provided
+
+B/L
+
+
+Surveyor's name Capt Adnan
+
+Date Submitted to IPIC 02/06/2017
+
+Stage 12: Additional Information
+
+Additional information not already covered in the report
+
+The survey is carried out at the secured Port Terminal and at the port there are security, port police, customs, port health, and other  political, Media staff are roaming around for inspections. We carry out survey of food items with utmost care and with the assistance of  the consignees as quickly as possible to avoid problems.
+
+If the surveyor open carton by carton of bananas for inspection of the cargo condition, there are chances that the inspectors may  notice the overripe, rotten, chilled banana and they will confiscate the goods, the container, and detain the persons involved.   Detailed inspection of cargo as per IPIC requirement at port terminal is not possible due to above restrictions.
+
+Conclusion / Summary
+
+Undersigned surveyor has given due consideration to his survey findings to the ripe bananas sighted present upon  the survey, to the  information obtained, and are made available. On this basis that the cause of ripening to the shipment of bananas may fairly, and  reasonably be attributed to transit delay 66 days, temperature abuse in transit, and could be loaded over­mature bananas.
+
+It is the shipper's responsibility to ensure the correct temperature setting of the container. Temperature setting and post­harvest life are highly dependent on commodity packaging prior to stowage and pulp temperature during loading.  B.L. remarks : Goods shipped in refrigerated container(s) set at shipper's requested carriage temperature SHIPPER'S LOAD, STOW,  WEIGHT AND COUNT.
+
+Upload documents N/A
+
+Stage 13: Sign Off

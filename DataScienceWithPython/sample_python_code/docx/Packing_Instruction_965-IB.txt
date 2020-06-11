@@ -1,0 +1,29 @@
+Packing Instruction 965–IB
+Please refer to section 2.3.4 for List of Operator Variations
+Introduction
+This instruction applies to lithium ion or lithium polymer cells and batteries (UN 3480) on Cargo Aircraft Only.
+This instruction applies to lithium ion cells with a Watt-hour rating not exceeding 20 Wh and lithium ion batteries with a Watt-hour rating not exceeding 100 Wh (UN 3480) packed in quantities that exceed the allowance permitted in Section II, Table 965-II.
+Quantities of cells or batteries prepared in accordance with this section must be assigned to Class 9 and are subject to all of the applicable provisions of these Guidelines (including the General Requirements of this packing instruction), except for the provisions of Section 6.
+A single cell battery as defined in Part III, sub-section 38.3.2.3 of the UN Manual of Tests and Criteria is considered a “cell” and must be transported according to the requirements for “cells” for the purpose of this packing instruction.
+General Requirements
+The following requirements apply to all lithium ion or lithium polymer cells and batteries:
+(a) cells and batteries identified by the manufacturer as being defective for safety reasons, or that have been damaged, that have the potential of producing a dangerous evolution of heat, fire or short circuit are forbidden for transport (e.g. those being returned to the manufacturer for safety reasons);
+(b) waste batteries and batteries being shipped for recycling or disposal are forbidden from air transport unless approved by the appropriate national authority of the State of origin and the State of the operator;
+(c) cells and batteries must be protected so as to prevent short circuits. This includes protection against contact with conductive materials within the same packaging that could lead to a short circuit.
+Section IB
+Lithium ion cells and batteries may be offered for transport provided that each cell and battery meets the provisions of 3.3.2(a) and (e), and they meet all of the following:
+1. for lithium ion cells, the Watt-hour rating is not more than 20 Wh;
+2. for lithium ion batteries, the Watt-hour rating is not more than 100 Wh. The Watt-hour rating must be marked on the outside of the battery case except for those batteries manufactured before 1 January 2009; and
+3. lithium ion cells and batteries must be offered for transport at a state of charge (SoC) not exceeding 30% of their rated design capacity. Cells and/or batteries at a SoC of greater than 30% may only be shipped with the approval of the State of origin and the State of the operator under the written conditions established by those authorities.
+Note:
+Guidance and methodology for determining the rated capacity can be found in Section 38.3.2.3 of the UN Manual of Tests and Criteria, 6th revised edition.
+These requirements apply to cells and batteries packed in quantities that exceed the allowance permitted in Section II, Table 965-II. 
+Cells and batteries must be packed in strong rigid outer packagings that conform to 5.1.2.3, 5.1.2.5.1 and 5.1.2.8.1.
+Additional Requirements–Section IB
+Cells and batteries must be packed in inner packagings that completely enclose the cell or battery. To provide protection from damage or compression to the batteries, the inner packagings must be placed in a strong rigid outer packaging of one of the packaging types shown below.
+Each package must be capable of withstanding a 1.2 m drop test in any orientation without:
+damage to cells or batteries contained therein;
+shifting of the contents so as to allow battery to battery (or cell to cell) contact;
+release of contents.
+Please refer to Table 965-IB for quantity Limits and Outer Packaging Instruction.
+

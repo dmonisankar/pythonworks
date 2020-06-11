@@ -1,0 +1,8 @@
+view
+====
+
+.. automodule:: cloudant.view
+    :members:
+    :undoc-members:
+    :special-members: __call__
+    :show-inheritance:

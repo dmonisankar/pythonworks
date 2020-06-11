@@ -1,0 +1,42 @@
+Packing Instruction 966–II
+Please refer to section 2.3.4 for operator variations.
+Introduction
+This instruction applies where the equipment is packed with lithium ion cells with a Watt-hour rating not exceeding 20 Wh or lithium ion batteries with a Watt-hour rating not exceeding 100 Wh.
+For the purposes of this packing instruction “equipment” means the device or apparatus for which the lithium cells or batteries will provide electrical power for its operation.
+A single cell battery as defined in Part III, sub-section 38.3.2.3 of the UN Manual of Tests and Criteria is considered a “cell” and must be transported according to the requirements for “cells” for the purpose of this packing instruction.
+Lithium ion cells and batteries meeting the requirements in this section are not subject to other additional requirements of these Guidelines except for:
+(a) dangerous goods in passenger and crew baggage (Subsection 2.2). Only those lithium ion batteries as specifically permitted may be carried in carry-on baggage;
+(b) dangerous goods in air mail (Subsection 2.1.5);
+(c) the marking and labelling requirements of 7.5;
+(d) the documentation requirements of 8.4;
+(e) reporting of dangerous goods accidents, incidents and other occurrences (10.1.2).
+
+General Requirements
+The following requirements apply to all lithium ion or lithium polymer cells and batteries:
+(a) cells and batteries identified by the manufacturer as being defective for safety reasons, or that have been damaged, that have the potential of producing a dangerous evolution of heat, fire or short circuit are forbidden for transport (e.g. those being returned to the manufacturer for safety reasons);
+(b) cells and batteries must be protected so as to prevent short circuits. This includes protection against contact with conductive materials within the same packaging that could lead to a short circuit.
+Section II
+Cells and batteries offered for transport must meet the provisions of 3.3.2(a) and (e), the General
+Requirements of this packing instruction and:
+1. for cells, the Watt-hour rating is not more than 20 Wh; and
+2. for batteries, Watt-hour rating is not more than 100 Wh. The Watt-hour rating must be marked on the outside case except those manufactured before 1 January 2009;
+Cells and batteries must be packed in strong rigid outer packagings that conform to 5.1.2.3, 5.1.2.5.1 and
+5.1.2.8.1.
+Additional Requirements–Section II
+Cells and/or batteries must:
+be completely enclosed in inner packagings then placed in a strong rigid outer packaging; or
+be completely enclosed in inner packagings then placed with equipment in a strong rigid outer packaging.
+The equipment must be secured against movement within the outer packaging and must be equipped with an effective means of preventing accidental activation.
+The number of cells or batteries in each package must not exceed the appropriate number for the equipment's operation, plus two spares.
+Each package of cells or batteries, or the completed package must be capable of withstanding a 1.2 m drop test in any orientation without:
+damage to cells or batteries contained therein;
+shifting of the contents so as to allow battery to battery (or cell to cell) contact;
+release of contents.
+
+Where a package contains a combination of lithium batteries contained in equipment and lithium batteries packed with equipment that meet the limits for lithium cells or batteries of Section II, the following additional requirements apply:
+– the shipper must ensure that all applicable parts of both packing instructions are met. The total weight of lithium batteries contained in any package must not exceed 5 kg;
+– the words “lithium ion batteries, in compliance with Section II of PI 966” must be placed on the air waybill, when an air waybill is used.
+Any person preparing or offering cells or batteries for transport must receive adequate instruction on these requirements commensurate with their responsibilities. Information on adequate instruction can be found in subsection 1.6.
+Overpacks–Section II
+Individual packages each complying with the requirements of Section II may be placed in an overpack. The overpack may also contain packages of dangerous goods or goods not subject to these Guidelines provided that there are no packages enclosing different substances which might react dangerously with each other. An overpack must be marked with the word “Overpack” and durably and legibly marked with the mark shown in Figure 7.2.A, unless the mark(s) on the package(s) inside the overpack are visible.
+Please refer to table 966-II for quantity limits and detail outer packaging instruction.

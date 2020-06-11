@@ -1,0 +1,52 @@
+# Initialize offset
+offset = -6
+
+# Code the while loop
+while offset != 0 :
+    print("correcting...")
+    if offset> 0 :
+        offset = offset - 1
+        print(offset)
+    else:
+        offset = offset + 1
+        print(offset)
+---------------------------------------------
+
+fam = [1.73,1.68,1.71,1.89]
+
+for index, height in enumerate(fam):
+	print('index' + str(index) + ": " + str(height))
+	
+---------------------------------------------
+
+# areas list
+areas = [11.25, 18.0, 20.0, 10.75, 9.50]
+
+# Change for loop to use enumerate()
+for i,a in enumerate(areas) :
+    print("room "+ str(i) + ": "+ str(a))
+	
+---------------------------------------------
+
+# house list of lists
+house = [["hallway", 11.25], 
+         ["kitchen", 18.0], 
+         ["living room", 20.0], 
+         ["bedroom", 10.75], 
+         ["bathroom", 9.50]]
+         
+# Build a for loop from scratch
+
+for house_section in house:
+    print("the " + house_section[0]+" is "+ str(house_section[1])+" sqm")
+
+--------------------------------------------
+
+world = { "afghanistan":30.55, 
+          "albania":2.77,
+          "algeria":39.21 }
+
+for key, value in world.items() :
+    print(key + " -- " + str(value))
+	
+--------------------------------------
